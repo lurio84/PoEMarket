@@ -4,20 +4,20 @@
     "password": "iissi$user",
     "database": "poemarket",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mariadb"
   },
   "test": {
     "username": "iissi_user",
     "password": "iissi$ser",
     "database": "poemarket",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mariadb"
   },
   "production": {
     "username": "iissi_user",
     "password": "iissi$user",
     "database": "poemarket",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mariadb"
   }
 }
